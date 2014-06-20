@@ -3,7 +3,7 @@ CMEP-glossary
 
 Markdown sources are in the `md` folder.
 
-Use thw Wiki to record which terms are good to use.
+Use the Wiki to record which terms are good to use.
 
 * * *
 
