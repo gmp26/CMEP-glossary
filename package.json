@@ -1,0 +1,30 @@
+{
+  "name": "glossaryMarkdown",
+  "version": "0.0.1",
+  "description": "Editable glossary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmp26/CMEP-glossary.git"
+  },
+  "keywords": [
+    "glossary"
+  ],
+  "author": "gmp26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmp26/CMEP-glossary/issues"
+  },
+  "homepage": "https://github.com/gmp26/CMEP-glossary",
+  "devDependencies": {
+    "gulp": "^3.8.1",
+    "gulp-pandoc": "^0.2.0",
+    "gulp-livescript": "^1.0.3",
+    "LiveScript": "^1.2.0",
+    "gulp-changed": "^0.4.0",
+    "gulp-newer": "^0.3.0"
+  }
+}

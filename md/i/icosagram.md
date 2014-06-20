@@ -1,0 +1,1 @@
+A twenty-pointed star.

@@ -1,0 +1,3 @@
+If we are given a set of fractions A, B, C, etc, then a common
+denominator for all of these fractions must be a common multiple of the
+denominators of A, B, C, ...

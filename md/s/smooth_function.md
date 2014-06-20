@@ -1,0 +1,1 @@
+An infinitely differentiable function.

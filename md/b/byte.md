@@ -1,0 +1,1 @@
+Eight binary digits.

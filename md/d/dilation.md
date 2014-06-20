@@ -1,0 +1,1 @@
+An enlargement or contraction.

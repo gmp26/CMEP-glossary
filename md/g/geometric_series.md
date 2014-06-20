@@ -1,0 +1,6 @@
+A sequence in which the $n^{th}$ term is the sum of the first n terms in
+some geometric sequence. Eg:
+
+1, 1+2, 1+2+4, 1+2+4+8, 1+2+4+8+16...
+
+1, 3, 7, 15, 31...
