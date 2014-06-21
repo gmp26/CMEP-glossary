@@ -1,4 +1,4 @@
-The following is called self-adjoint form for a homogeneous second-order
+The following is called a self-adjoint form for a homogeneous second-order
 linear ordinary differential equation:
 $$p(x)u^{\prime \prime} (x) + p^{\prime} (x)u^{\prime} (x) 
 + q(x)u(x) = 0, a \lt x \lt b .$$
