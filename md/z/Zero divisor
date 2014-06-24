@@ -1,0 +1,3 @@
+We are familiar with the idea that if two real numbers multiply to give 0, then at least one of them must be 0. That is, if ab=0 then a=0 or b=0 (or both—mathematicians use ‘or’ in an inclusive way to allow the possibility that both occur). That is an extremely powerful idea, and it’s worth looking out for opportunities to use it. It turns out that there are other contexts where the same thing is not true: we can ‘multiply’ two non-zero quantities and get zero. We’ll encounter some examples here.
+
+We say that a is a zero divisor if there is some non-zero b such that ab=0. In the reals, the only zero divisor is 0; in other contexts there may be zero divisors that are not zero.
