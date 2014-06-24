@@ -20,4 +20,4 @@ write are:
 ’mat sat cat’
 
 Two words had two permutations, while three words had six
-rearrangements.
+permutations.
