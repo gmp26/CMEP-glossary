@@ -1,2 +1,1 @@
-If $ \mathrm{f(x) = x} ^{\mathrm{n}}, $ where n is an integer, then
-$ \frac{\mathrm{df}}{\mathrm{dx}} = \mathrm{nx}^{\mathrm{n-1}}. $
+If  f(x)=xn, where n is an integer, then dfdx=nxn−1.
