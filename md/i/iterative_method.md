@@ -16,4 +16,4 @@ x_{3}&=&1.807747\\
 x_{4}&=&1.7866877\\
 \vdots\end{aligned}$$
 
-The exact answer is about 1.7912878.
+The exact answer is about $1.7912878$.
