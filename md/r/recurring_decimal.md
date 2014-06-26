@@ -1,9 +1,9 @@
 A decimal in which the same pattern of digits repeats over and over
 again;
 
-eg one ninth = 0.111111...
+e.g. $\frac{1}{9} = 0.111111\dots$
 
-one seventh = 0.142857142857....
+$\frac{1}{7} = 0.142857142857\dots$
 
 Sometimes we write recurring decimals by writing out the repeating
 pattern once and putting a dot over the first and last digit of it,
