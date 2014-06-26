@@ -10,7 +10,9 @@ $ \Delta = abc+2fgh-af^{2}-bg^{2}-ch^{2}$ and $h^{2}-ab$:
 $\Delta \neq 0 $ $\Delta = 0$ 
 
 $h^{2}-ab < 0 \quad\quad$ Ellipse $\quad\quad$ Point 
+
 $h^{2}-ab = 0$$\quad\quad$ Parabola $\quad$ Pair of parallel or coincident lines, or an imaginary locus 
+
 $h^{2}-ab > 0$$\quad\quad$ Hyperbola $\quad$ Pair of intersecting lines
   
 
