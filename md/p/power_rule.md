@@ -1,1 +1,1 @@
-If  f(x)=xn, where n is an integer, then dfdx=nxn−1.
+If  $f(x)=x^n$, where $n$ is an integer, then $\frac{df}{dx}=nx^{n−1}.$
