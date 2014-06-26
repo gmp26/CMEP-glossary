@@ -4,7 +4,7 @@ to use the product rule in order to do this.
 
 For example: $ \mathrm{xy} = 2 $
 
-Differentiate with respect to x, using the product rule:
+Differentiate with respect to $x$, using the product rule:
 $ \frac{\mathrm{d}}{\mathrm{dx}} (\mathrm{xy}) = 0 $
 $$\frac{\mathrm{dx}}{\mathrm{dx}} \mathrm{y} + \mathrm{x} \frac{\mathrm{dy}}{\mathrm{dx}} = 0$$
 $$\mathrm{y} + \mathrm{x} \frac{\mathrm{dy}}{\mathrm{dx}} = 0$$
