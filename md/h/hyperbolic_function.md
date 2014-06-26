@@ -1,16 +1,18 @@
 A group of functions related to the trigonometric functions:
 
-hyperbolic sin of x is written sinh(x) (pronounced ’shine x’)
+Hyperbolic $\sin$ of $x$ is written $\sinh(x)$ (pronounced ’shine x’)
 
-hyperbolic cos of x is written cosh(x) (’cosh x’)
+Hyperbolic $\cos$ of $x$ is written $\cosh(x)$ (’cosh x’)
 
-hyperbolic tan of x is written tanh(x) (’tansh x’)
+Hyperbolic $\tan$ of $x$ is written $\tanh(x)$ (’tansh x’)
 
-Definitions; sinh(x) = [exp(x) - exp(-x)]/2
+Definitions; 
 
-cosh(x) = [exp(x) + exp(-x)]/2
+$\sinh(x) = \frac{e^x-e^{-x}}{2}$
 
-tanh(x) = sinh(x)/cosh(x)
+$\cosh(x) = \frac{e^x+e^{-x}}{2}$
 
-There are also sech, coth and cosech, defined as 1/cosh, 1/sinh and
-1/tanh respectively.
+$\tanh(x) = \frac{\sinh(x)}{\cosh(x)}$
+
+There are also $\text{sech}$, $\text{cosech}$ and $\coth$, defined as $\frac{1}{\cosh}$, $\frac{1}{\sinh}$ and
+$\frac{1}{\tanh}$ respectively.
