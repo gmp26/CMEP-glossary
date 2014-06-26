@@ -4,7 +4,7 @@ The general equation for these curves is $ax^{2}+2hxy+by^{2}+2gx+2fy+c=0.$
 
 The type of curve can be determined by computing the two quantities $ \Delta = abc+2fgh-af^{2}-bg^{2}-ch^{2}$ and $h^{2}-ab$:
 
-$\Delta \neq 0 $ $\quad\quad\quad\quad\quad\quad\quad\quad\quad$ $\Delta = 0$
+$\qquad\qquad\qquad\quad \Delta \neq 0 $ $\qquad$ $\Delta = 0$
 
 $h^{2}-ab < 0 \quad\quad$ Ellipse $\quad\quad$ Point
 
