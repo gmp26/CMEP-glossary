@@ -8,7 +8,7 @@ computing the two quantities $ \Delta = abc+2fgh-af^{2}-bg^{2}-ch^{2}$
 and $h^{2}-ab$:
 
  
-                   $\Delta \neq 0 $   $\Delta = 0$
+$\Delta \neq 0 $   $\Delta = 0$
   $h^{2}-ab < 0$   Ellipse            Point
   $h^{2}-ab = 0$   Parabola           Pair of parallel or coincident lines, or an imaginary locus
   $h^{2}-ab > 0$   Hyperbola          Pair of intersecting lines
