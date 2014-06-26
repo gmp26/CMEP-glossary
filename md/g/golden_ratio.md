@@ -5,7 +5,7 @@ to the smaller part is equal to the ratio of the whole line to the
 larger part, then this ratio is the golden ratio.
 
 The value of the golden ratio is $ (1 + \sqrt{5} ) / 2 , $ or about
-1.618. The ratio of successive terms in the Fibonacci sequence
+$1.618$. The ratio of successive terms in the Fibonacci sequence
 approaches this ratio, as the terms become very large.
 
 A rectangle whose sides are in the golden ratio to one another, is
