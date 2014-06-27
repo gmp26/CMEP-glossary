@@ -1,5 +1,5 @@
 A sequence $u_{n}$ with the property that $u_{i}+u_{i+1}=u_{i+2}$ for
-every i.
+every $i$.
 
 Usually we also require that $u_{0}=u_{1}=1.$
 
