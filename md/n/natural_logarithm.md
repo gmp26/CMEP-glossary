@@ -1,1 +1,1 @@
-Logarithm to base e.
+Logarithm to base $e$.
