@@ -1,5 +1,7 @@
-A line which a given curve gets closer and closer to, but never touches,
-as it gets further from the origin.
+A straight line to which a given curve eventually gets as close as we like, and stays close.
 
-e.g., for the graph of $y=\frac{1}{x}$, the $x$-axis and the $y$-axis are both
-asymptotes.
+For example:
+
+ - For the graph of $y=\frac{1}{x}$, the $x$-axis is an asymptote as $x$ tends towards $\infty$ and the $y$-axis is an asymptote as $x$ gets very close to zero.
+
+ - For the graph $y=\ln(x)$, the $y$-axis is an asymptote as $x$ tends towards $-\infty$.
