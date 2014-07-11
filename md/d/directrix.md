@@ -1,1 +1,1 @@
-A directrix is
+The directrix of a conic section is a fixed line which allows us to define the conic section as the locus of points whose distance from the focus is proportional to the horizontal distance from the directrix. The constant of this proportionality then determines which type of conic section we have.
