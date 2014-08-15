@@ -1,2 +1,6 @@
 *.html
 node_modules
+.DS_Store
+*.hi
+*.o
+hs/build

@@ -1,12 +1,18 @@
 module Main where
 
-import qualified Data.ByteString.Lazy.Char8 as B
-import Data.Digest.Pure.SHA
-import Data.HashMap.Lazy
+import Crypto.Hash.SHA1 (hashlazy)
+import qualified Data.ByteString as Strict
+import qualified Data.ByteString.Lazy as Lazy
+import Text.Printf (printf)
 
-readSHAs :: HashMap String String
-readSHAs = empty
+hashFile :: FilePath -> IO Strict.ByteString
+hashFile = fmap hashlazy . Lazy.readFile 
+
+toHex :: Strict.ByteString -> String
+toHex bytes = Strict.unpack bytes >>= printf "%02x"
+
+test :: FilePath -> IO ()
+test path = hashFile path >>= putStrLn . toHex
 
 main::IO()
-main = 
-  putStrLn "Building glossary"
+main = test  "/usr/share/dict/words"
