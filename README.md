@@ -32,12 +32,6 @@ Processing using bin/md2html
 Build md2html from [the source repo](https://github.com/gmp26/md2html).
 Ensure the md2html executable is on your path.
 
-```
-cd CMEP-glossary
-md2html md/ html/
-```
-This should finish in about 10 seconds.
-
 ### Building md2html from source
 
-
+See [the md2html repo](https://github.com/gmp26/md2html).
