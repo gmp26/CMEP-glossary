@@ -26,11 +26,19 @@ gulp
 ```
 This method takes about 8 minutes to complete
 
-Processing using bin/md2html
+Processing using `md2html`
 ---
 
+md2html is a custom pandoc build that processes markdown into html.
+It's not yet stable, but good enough to use. 
+
 Build md2html from [the source repo](https://github.com/gmp26/md2html).
-Ensure the md2html executable is on your path.
+Ensure the md2html executable is on your path, then
+```
+cd CMEP-glossary
+md2html
+```
+This takes about 10 seconds.
 
 ### Building md2html from source
 
