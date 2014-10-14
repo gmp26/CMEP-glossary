@@ -1,1 +1,1 @@
-A short way of saying or writing something
+A shortened form of a word or phrase.
