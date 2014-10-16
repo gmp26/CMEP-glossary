@@ -1,8 +1,5 @@
-A group with a commutative operation; for example, all cyclic groups are
-Abelian. Note that additive notation is often used in place of the more
-usual group multiplication, so that $ g.h $ becomes $ g+h $ , and
-$ a^k $ becomes $ ka $ (where $ k \in  \mathbb{Z}  $ ). In fact, every
-Abelian group is isomorphic to a group of the form
-$$\mathbb{Z}^ k \oplus \mathbb{Z}/ d_1 \mathbb{Z}  \oplus \ldots \oplus \mathbb{Z}/ d_n \mathbb{Z}$$
-where $ d_1| \ldots|d_n $ . This is equivalent to the Chinese remainder
-theorem (possibly only for finite groups).
+A group in which the result of applying the group operation to two group elements does not depend on their order: $$f * g = g *f$$ for every $f$ and $g$ in the group. A group with this property can also be called a commutative group. For example, all cyclic groups are Abelian (but an Abelian group is not necessarily cyclic). 
+
+Note that additive notation is sometimes used instead of the usual multiplicative notation.
+
+Also, every finite Abelian group is isomorphic to a group of the form $$\mathbb{Z}^ k \oplus \mathbb{Z}_{d_1} \oplus \ldots \oplus \mathbb{Z}_{d_n},$$ where $\mathbb{Z}_{n}$ is the set of integers modulo $n$, $ d_1| \ldots|d_n$, and $k \ge 0$. This is known as the Fundamental Theorem of Finite Abelian Groups.
