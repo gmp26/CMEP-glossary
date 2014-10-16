@@ -1,3 +1,1 @@
-The modern view of algebra, which considers algebraic structures to be
-sets with operations defined on them. Structures like groups, rings and
-fields are important.
+Abstract algebra is a common name for the area of algebra that studies algebraic structures rather than number systems. Such structures include groups, rings, fields, modules and vector spaces.
