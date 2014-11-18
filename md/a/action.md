@@ -1,4 +1,1 @@
-A (left) action of a group $ G $ on a set $ X $ is a map
-$ G \times X \to X $, $ (g,x) \mapsto g.x $ such that $ e.x=x $ and
-$ g.(h.x)=(gh.x) $ for all $ x \in X $. A right action is similarly
-defined.
+A (left) action of a group $ G $ on a set $ X $ is a map $\phi: G \times X \to X$, $(g,x) \mapsto g \cdot x$ such that $\phi(e,x)=x$ (where $e$ is the identity element of $G$) and $\phi(g,\phi(h,x))=\phi(gh,x)$ for all $g,h \in G$. A right action is similarly defined.
