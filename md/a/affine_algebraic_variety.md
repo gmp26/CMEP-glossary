@@ -1,0 +1,1 @@
+The locus $ V $ of zeros of a set $\hspace{1mm} f_{\alpha}$ of polynomials in $ k[x_1, \ldots , x_n] , $ i.e. $$V = \{ x_1, \ldots , x_n | f_{\alpha} ( x_1, \ldots , x_n ) = 0  \hspace{1mm} \forall \alpha \}.$$
