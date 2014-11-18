@@ -1,4 +1,1 @@
-Angles $\angle AOB$ and $\angle BOC$ are adjacent if they share a common
-centre $O$ and a common line $OB$. Adjacent angles such that
-$\angle AOC$ are on the same straight line are called supplementary
-angles.
+Angles $\angle AOB$ and $\angle BOC$ are adjacent if they share a common centre $O$ and a common line $OB$. If, in addition, $\angle AOC = 180^\circ$ (so $A$, $O$ and $C$ are on the same straight line), then $\angle AOB$ and $\angle BOC$ are called supplementary angles.
