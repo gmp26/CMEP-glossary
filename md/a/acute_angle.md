@@ -1,1 +1,1 @@
-An angle which is smaller than a right angle is called an acute angle.
+An angle that is smaller than a right angle ($90^\circ$) is called an acute angle.
